@@ -38,16 +38,17 @@ Tech Stack
 </ul>
 
 **************************
-  <h1>Project Images :</h1>
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/0310b93e-2455-4e50-bcdd-a192f20ce319" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/35502371-2628-4773-b96e-60a07a8a80a2" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/575dba39-eb74-4b89-961e-b9754b930e32" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/1bf3b3a4-fe70-4f20-aad5-fd60f75cb29f" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/de504001-2520-467c-93bd-1db327958bbf" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/fd0a0934-0fa1-4781-adf1-05ac1c80e90d" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/0b2a36f6-b179-4025-bf0b-3f77d6b0a370" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/1538b1f7-3b7e-4868-b2a0-1abfe262be69" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/6ff10bbc-16b7-4469-8d74-f30275ba2828" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/3464ed2f-3c72-4247-b026-5eef343c9cbb" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/b19a3f0d-f711-4e68-8968-116287ade66e" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-    <img src="https://github.com/rjmngr929/squad_11/assets/170399926/27c9b082-4521-4a2e-aadd-2bfa410abcb6" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
+  ## Project Images
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/home.png" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/drawer.png" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/matches.png" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/winners.png" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/feeds.jpg" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/contest.png" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/team.png" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/create_team.png" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/team_preview.png" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/choose_captain.png" width="200" height="400">
+  <img src="https://raw.githubusercontent.com/rjmngr929/Fantasy-Sports/main/feed_detail.jpg" width="200" height="400">
+</div>
